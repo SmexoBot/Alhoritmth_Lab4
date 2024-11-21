@@ -8,13 +8,13 @@ using System.Windows.Shapes;
 
 namespace SortingDemo
 {
-    public partial class MainWindow : Window
+    public partial class InnerSortWindow : Window
     {
         private int[] array; // Массив для сортировки
         private const int ArraySize = 50; // Размер массива
         private bool isSorting = false; // Флаг для проверки выполнения сортировки
 
-        public MainWindow()
+        public InnerSortWindow()
         {
             InitializeComponent();
             InitializeAlgorithms();

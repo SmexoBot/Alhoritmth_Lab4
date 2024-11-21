@@ -1,4 +1,4 @@
-﻿<Window x:Class="SortingDemo.MainWindow"
+﻿<Window x:Class="SortingDemo.InnerSortWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Алгоритмы внутренней сортировки" Height="923" Width="1416" Background="#FF94DEE0" FontFamily="Verdana">
